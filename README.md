@@ -1,7 +1,7 @@
 # py_network_sniffer_sender
 network packet sender and packet sniffer
 
-中国民航大学2019级计算机科学与技术专业
+CAUC中国民航大学2019级计算机科学与技术专业
 网络课程设计第一个模块：Python协议编辑器与Python协议分析器
 
 题目要求：
